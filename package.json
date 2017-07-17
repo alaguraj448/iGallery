@@ -1,0 +1,8 @@
+{
+  "name": "formidable-upload",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": { 
+    "formidable": "1.0.14"
+   }
+}
